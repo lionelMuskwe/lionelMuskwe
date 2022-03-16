@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-snim2-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://uk.linkedin.com/in/lionel-muskwe "Connect on LinkedIn")
 <!--
 **lionelMuskwe/lionelMuskwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
