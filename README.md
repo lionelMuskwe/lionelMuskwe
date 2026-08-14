@@ -6,13 +6,7 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://lionelmuskwe.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lionelmuskwe.com-0B0F14?style=flat-square&logo=googlechrome&logoColor=2DD4BF&labelColor=0B0F14"></a>
-  <a href="https://uk.linkedin.com/in/lionel-muskwe"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lionel%20Muskwe-0B0F14?style=flat-square&logo=linkedin&logoColor=60A5FA&labelColor=0B0F14"></a>
-  <a href="mailto:lionel04muskwe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lionel04muskwe-0B0F14?style=flat-square&logo=gmail&logoColor=E8EEF5&labelColor=0B0F14"></a>
-</p>
-
-<br>
+### Hey
 
 I build production AI systems and the platforms they run on. First-class Computer Science graduate, currently taking a commercial medical-training product from first commit to live deployment: the LLM orchestration layer, the Django and Next.js stack around it, and the infrastructure underneath it.
 
@@ -20,22 +14,23 @@ Most of my work is agentic. Claude Code is a daily development harness rather th
 
 <br>
 
-### Now
+#### Currently
 
-```text
-→  Shipping DialogicAI, an AI patient simulator used by 500 medical students
-→  Deepening C# / ASP.NET Core alongside the Python side of my stack
-→  Presenting a paper on AI-driven medical communication training at
-   Imperial College London, August 2026
-```
+| | |
+| :--- | :--- |
+| **Building** | DialogicAI, an AI patient simulator live with 500 medical students and a year-two target of 1,200 |
+| **Owning** | LangGraph orchestration, the CI/CD pipeline, and a £5k infrastructure build with replica failover |
+| **Learning** | Deeper C# and ASP.NET Core alongside the Python side of my stack |
+| **Writing** | A paper on AI-driven medical communication training, presenting at Imperial College London, August 2026 |
+| **Elsewhere** | [lionelmuskwe.com](https://lionelmuskwe.com) · [LinkedIn](https://uk.linkedin.com/in/lionel-muskwe) · [Email](mailto:lionel04muskwe@gmail.com) |
 
 <br>
 
-### Selected work
+#### Selected work
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **DialogicAI** | AI patient simulator for medical licensing prep. Greenfield to live production, 500 enrolled students, year-two target of 1,200. I own the LangGraph orchestration layer, the CI/CD pipeline, and a £5k infrastructure build with replica failover. | `Django` `Next.js` `LangGraph` `PostgreSQL` `Docker` |
+| **DialogicAI** | AI patient simulator for medical licensing prep. Greenfield to live production, 500 enrolled students. Aston University funded. | `Django` `Next.js` `LangGraph` `PostgreSQL` `Docker` |
 | **Care Compliance Platform** | Multi-tenant SaaS for 5 UK care agencies. CQC regulation encoded as enforced business constraints, expiring documents flagged automatically, 99.5% uptime. Led three junior developers. | `Django` `React` `Docker` `CI/CD` |
 | **Articulate AI** | Speech feedback platform pairing Deepgram transcription with rubric-based LLM evaluation across pacing, clarity, tone, and structure. | `React` `Django` `Deepgram` `GPT-4` |
 
@@ -43,7 +38,7 @@ Most of my work is agentic. Claude Code is a daily development harness rather th
 
 <br>
 
-### Stack
+#### Stack
 
 **Build**
 
@@ -67,28 +62,20 @@ Most of my work is agentic. Claude Code is a daily development harness rather th
 
 <br>
 
-### GitHub
+#### Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lionelMuskwe&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=2DD4BF&text_color=8B99A8&rank_icon=github">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lionelMuskwe&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=0D9488&text_color=475569&rank_icon=github" height="160">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelMuskwe&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=60A5FA&text_color=8B99A8">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelMuskwe&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569" height="160">
-  </picture>
-</p>
+I joined GitHub in 2021 and have since pushed 3,412 commits, opened 128 pull requests, and shipped 18 personal repositories. Roughly 2,180 of those sit in private commercial repositories, so the contribution graph is quieter than the year has been.
 
 <br>
 
-### Away from the keyboard
+#### Away from the keyboard
 
 Competitive rugby, Sunday football, and three lifting sessions a week. Former president of Aston University's Computer Science Society and captain of the men's first volleyball team. I read up on new applied-AI work and rebuild the interesting parts in my home lab.
 
 <br>
 
-<p align="center">
-  <sub>Open to conversations about applied AI, agentic systems, and platform engineering.<br>
-  <a href="mailto:lionel04muskwe@gmail.com">lionel04muskwe@gmail.com</a> &nbsp;·&nbsp; <a href="https://lionelmuskwe.com">lionelmuskwe.com</a></sub>
-</p>
+---
+
+<sub>Open to conversations about applied AI, agentic systems, and platform engineering.</sub>
+
+**~** [*lionelmuskwe.com*](https://lionelmuskwe.com) &nbsp;·&nbsp; <sub>last updated 14 August 2026</sub>
